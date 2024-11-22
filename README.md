@@ -5,7 +5,7 @@
   <meta name="google-site-verification" content="uijWJyo3OzssuUjIrWrCADK55SfS0sU6OWIVSLDWHH0" />
 
 <body>
-  <h3>Bem-vindo à Página Oficial do Desenvolvedor</h3><a href="https://companyaddc.wordpress.com/app-ads-txt/" target="_blank" style="text-decoration: none;color: #0073aa">Acesse o arquivo app-ads.txt</a>
+  <h3>Bem-vindo à Página Oficial do Desenvolvedor</h3>
   <section>
     <h4>Sobre Mim</h4>Olá! Meu nome é Isaque, e sou o desenvolvedor responsável pelo AD Platform SiB ROSS. Trabalho como desenvolvedor solo, buscando sempre trazer soluções criativas e práticas para facilitar a vida dos usuários.
 </section><section>
