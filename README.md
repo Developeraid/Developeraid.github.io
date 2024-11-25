@@ -1,5 +1,3 @@
-# Developeraid.github.io
-
 <head>
   <meta name="google-site-verification" content="uijWJyo3OzssuUjIrWrCADK55SfS0sU6OWIVSLDWHH0" />
   <h1>Sobre o desenvolvedor</h1>
