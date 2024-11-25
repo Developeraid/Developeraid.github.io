@@ -1,11 +1,8 @@
 # Developeraid.github.io
 
 <head>
-  google.com, pub-9524793133470611, DIRECT, f08c47fec0942fa0
-  
-  <h1>Sobre o desenvolvedor</h1>
   <meta name="google-site-verification" content="uijWJyo3OzssuUjIrWrCADK55SfS0sU6OWIVSLDWHH0" />
-
+  <h1>Sobre o desenvolvedor</h1>
 <body>
   <h3>Bem-vindo à Página Oficial do Desenvolvedor</h3>
   <section>
